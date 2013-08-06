@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+
+  "name": "LoginHelper",
+  "description": "login",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "me.png",
+    "default_popup": "ww.html"
+  }
+}
